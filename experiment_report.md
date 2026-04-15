@@ -1,7 +1,7 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** chưa cung cấp
-**Name:** chưa cung cấp
+**Student ID:** 2A202600229
+**Name:** Nguyễn Trọng Tín
 **Date:** 2026-04-15
 
 ---
